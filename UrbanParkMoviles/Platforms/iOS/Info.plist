@@ -26,6 +26,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Urban Park usa tu ubicación para mostrarte cómo llegar al estacionamiento, a 500 metros.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Urban Park usa la cámara para registrar tu rostro y proteger el QR de salida.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Urban Park usa Face ID para abrir el QR de salida.</string>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
 </dict>
