@@ -13,7 +13,11 @@
                        Text="Hoy"
                        FontFamily="OpenSansSemibold"
                        FontSize="18"
+<<<<<<< HEAD
                        TextColor="#1E1B2E" /> 
+=======
+                       TextColor="#1E1B2E" />
+>>>>>>> defdcb133b713dd06a8db5e754dddd224cd33ff5
             </Grid>
 
             <HorizontalStackLayout x:Name="dias" Spacing="8" />
