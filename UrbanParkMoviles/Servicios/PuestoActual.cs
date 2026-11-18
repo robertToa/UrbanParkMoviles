@@ -28,6 +28,7 @@ public static class PuestoActual
                          ?? abiertos.FirstOrDefault(t => string.IsNullOrWhiteSpace(t.Usuario));
 
             return ticket is null ? null : await PorTicketAsync(ticket);
+             
         }
         catch (Exception)
         {
