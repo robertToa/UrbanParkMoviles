@@ -23,7 +23,7 @@
                     <Label Grid.Column="1"
                            Text="Urban Park"
                            FontFamily="OpenSansSemibold"
-                           FontSize="13"
+                           FontSize="13" 
                            TextColor="{StaticResource TextoClaro}"
                            VerticalOptions="Center" />
                     <Button x:Name="btnActualizar"

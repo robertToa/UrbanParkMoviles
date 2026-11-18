@@ -20,7 +20,7 @@ public partial class vPerfil : ContentPage
         lblSugerenciasUrl.Text = "Emulador: http://10.0.2.2:8090 · Celular en la misma WiFi: http://192.168.100.38:8090";
         PintarIdentidad();
     }
-
+     
     protected override async void OnAppearing()
     {
         base.OnAppearing();

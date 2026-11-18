@@ -8,7 +8,7 @@ public partial class vMas : ContentPage
     {
         InitializeComponent();
         Construir();
-    }
+    } 
 
     private void Construir()
     {

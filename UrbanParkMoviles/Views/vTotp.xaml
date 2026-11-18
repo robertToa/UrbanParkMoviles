@@ -23,7 +23,7 @@
                         StrokeShape="RoundRectangle 16"
                         Padding="12">
                     <VerticalStackLayout Spacing="10">
-
+ 
                         <Label Text="1 · Escanea este QR con Google Authenticator"
                                FontFamily="OpenSansSemibold"
                                FontSize="12"

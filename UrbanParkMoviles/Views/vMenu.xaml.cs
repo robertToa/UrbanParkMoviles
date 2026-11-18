@@ -19,7 +19,7 @@ public partial class vMenu : ContentPage
         ["OPERADOR"] = ["plazas", "vehiculos", "tickets", "perfil", "token"],
         ["ADMIN"] = ["plazas", "vehiculos", "tickets", "ia", "reporte", "usuarios", "perfil", "token"]
     };
-
+     
     /// <summary>Clave -> (título corto, icono, grupo, token de color del icono).</summary>
     private static readonly Dictionary<string, (string Titulo, string Icono, string Grupo, string Color)> Info = new()
     {

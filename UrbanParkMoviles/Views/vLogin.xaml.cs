@@ -20,7 +20,7 @@ public partial class vLogin : ContentPage
 
         txtUsuario.TextChanged += async (_, _) => await ActualizarBotonHuellaAsync();
     }
-
+     
     protected override async void OnAppearing()
     {
         base.OnAppearing();

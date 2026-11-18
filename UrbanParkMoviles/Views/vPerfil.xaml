@@ -22,7 +22,7 @@
                     <Label x:Name="lblUsuario"
                            Text="Usuario: — · Roles: —"
                            Style="{StaticResource Ayuda}" />
-                </VerticalStackLayout>
+                </VerticalStackLayout> 
 
                 <Button Grid.Column="2"
                         Text="Recargar"

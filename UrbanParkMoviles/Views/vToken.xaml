@@ -22,7 +22,7 @@
                         Style="{StaticResource BotonSecundario}"
                         HeightRequest="42"
                         VerticalOptions="Center" />
-            </Grid>
+            </Grid> 
 
             <!-- ============================================================
                  CLAIMS DEL TOKEN

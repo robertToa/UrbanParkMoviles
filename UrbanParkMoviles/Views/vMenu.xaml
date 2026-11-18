@@ -8,7 +8,7 @@
              BackgroundColor="#F4F7FC"
              Title="Inicio">
 
-    <ScrollView>
+    <ScrollView> 
         <VerticalStackLayout Spacing="0">
 
             <!-- ================= encabezado azul ================= -->

@@ -17,7 +17,7 @@
             <VerticalStackLayout Spacing="5" Margin="0,2,0,6">
                 <Border BackgroundColor="Transparent"
                         StrokeThickness="0"
-                        StrokeShape="RoundRectangle 16"
+                        StrokeShape="RoundRectangle 16" 
                         WidthRequest="68" HeightRequest="68"
                         HorizontalOptions="Center">
                     <Image Source="logo_urbanpark.png"

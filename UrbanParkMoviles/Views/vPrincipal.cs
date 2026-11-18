@@ -18,7 +18,7 @@ public class vPrincipal : Shell
     private ShellContent? _pestanaSalida;
     private ShellContent? _pestanaSalir;
     private IDispatcherTimer? _reloj;
-
+     
     /// <summary>Ticket vigente con el que se pintaron las pestañas (null = sin puesto).</summary>
     private long? _ticketPintado;
     private bool _ajustando;
