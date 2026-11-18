@@ -24,7 +24,7 @@
                         <Grid ColumnDefinitions="200,*,*"
                               ColumnSpacing="18"
                               RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,Auto,Auto"
-                              RowSpacing="8"> 
+                              RowSpacing="8">
 
                             <VerticalStackLayout Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Spacing="8">
                                 <Grid ColumnDefinitions="200,Auto,Auto" ColumnSpacing="12">

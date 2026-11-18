@@ -8,7 +8,6 @@ namespace UrbanPark.App.Servicios;
 /// muestra su parqueadero en lugar del mapa), la pestaña QR y las pantallas de pago.
 /// </summary>
 public static class PuestoActual
-
 {
     /// <summary>Pase del puesto vigente, o null si el cliente no tiene nada reservado ni ocupado.</summary>
     public static async Task<PasePuestoDto?> CargarAsync()

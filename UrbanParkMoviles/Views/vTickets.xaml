@@ -24,7 +24,7 @@
                 <Setter Property="BackgroundColor" Value="{StaticResource Acento}" />
                 <Setter Property="BorderColor" Value="{StaticResource AcentoOscuro}" />
             </Style>
-        </ResourceDictionary> 
+        </ResourceDictionary>
     </ContentPage.Resources>
 
     <ScrollView>

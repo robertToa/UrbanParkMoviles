@@ -10,7 +10,6 @@ namespace UrbanPark.App.Servicios;
 /// guardadas en el servidor.
 /// </summary>
 public static class PlacaEcuador
-
 {
     private static readonly Color Tinta = Color.FromArgb("#0F172A");
     private static readonly Color Naranja = Color.FromArgb("#F2A03C");

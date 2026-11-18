@@ -9,7 +9,6 @@ namespace UrbanPark.App.Servicios;
 /// Pueden coexistir varios (un QR por vehículo).
 /// </summary>
 public static class PaseSalida
-
 {
     public const int Minutos = 10;
     private const string Clave = "urbanpark-pases-salida";

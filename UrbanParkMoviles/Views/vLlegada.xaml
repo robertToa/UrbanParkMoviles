@@ -16,7 +16,7 @@
             <Grid>
                 <WebView x:Name="mapa" Navigated="OnMapaNavegado" />
                 <ActivityIndicator x:Name="spinner"
-                                   IsRunning="True" 
+                                   IsRunning="True"
                                    IsVisible="True"
                                    Color="{StaticResource AcentoOscuro}"
                                    HorizontalOptions="Center"
