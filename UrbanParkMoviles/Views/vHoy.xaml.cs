@@ -14,6 +14,8 @@ public partial class vHoy : ContentPage
         InitializeComponent();
     }
 
+
+     
     protected override async void OnAppearing()
     {
         base.OnAppearing();
